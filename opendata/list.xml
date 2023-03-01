@@ -3,7 +3,7 @@
 	<standardversion>http://opendata.gosmonitor.ru/standard/3.0</standardversion>
     <meta>
         <item>
-            <identifier>7707082071-fsnb2020</identifier>
+            <identifier>1</identifier>
             <title>ФСНБ-2020</title>
             <format>xml</format>
             <link>https://zhabinda.github.io/github_page_example/opendata/7707082071-fsnb2020/meta.xml</link>
