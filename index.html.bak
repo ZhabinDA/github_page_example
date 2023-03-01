@@ -4,10 +4,12 @@
   <title>Test</title>
 <body>
 
-<a href="opendata/export/csv" class="csv">csv</a>
+<a href="/opendata/export/csv" class="csv">csv</a>
 
 <ul>
     <li><a href="opendata/1111111111">1</a></li>
+    <li><a href="api/opendata/222222222">2</a></li>
+	<li><a href="api/opendata/333333">3</a></li>
 </ul>
 
 </body></html>
