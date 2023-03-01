@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <list>
-	<standardversion>http://opendata.gosmonitor.ru/standard/3.0</standardversion>
-    <meta>
-        <item>
-            <identifier>1</identifier>
-            <title>ФСНБ-2020</title>
-            <format>xml</format>
-            <link>https://zhabinda.github.io/github_page_example/opendata/7707082071-fsnb2020/meta.xml</link>
-        </item>
-    </meta>
+  <standardversion>http://opendata.gosmonitor.ru/standard/3.0</standardversion>
+  <meta>
+    <item>
+      <identifier>1</identifier>
+      <title>ФСНБ-2020</title>
+      <link>https://zhabinda.github.io/github_page_example/opendata/7707082071-fsnb2020/meta.xml</link>
+	  <format>xml</format>
+    </item>
+  </meta>
 </list>
