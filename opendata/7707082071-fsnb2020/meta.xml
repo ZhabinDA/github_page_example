@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta>
+  <standardversion>http://opendata.gosmonitor.ru/standard/3.0</standardversion>
+  <identifier>7707082071-fsnb2020</identifier>
+  <title>ФСНБ-2020</title>
+  <description>ФСНБ-2020 - сметно-нормативная база, включающая сборники ФЕР-2001 и ГЭСН-2001 редакции 2020 года. Предназначена для составления смет на строительные, ремонтно-строительные, монтаж оборудования и пусконаладочные работы, финансируемые из федерального бюджета.</description>
+  <creator>ФАУ "Главгосэкспертиза России"</creator>
+  <created>28.11.2022 15:51:00</created>
+  <modified>28.11.2022 15:51:00</modified>
+  <subject>фснб-2020, федеральная сметно-нормативная база, база для составления смет</subject>
+  <format>xml</format>
+  <data>
+    <dataversion></dataversion>
+  </data>
+  <structureversion>
+    <source></source>
+  </structureversion>
+  <publisher>
+    <name>Лахаев Сергей Васильевич</name>
+    <phone>+7 (495) 625-95-95</phone>
+    <mbox>osisc@gge.ru</mbox>
+  </publisher>
+</meta>
